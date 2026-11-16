@@ -1,4 +1,4 @@
-# Ghostery Url Parser
+# Ghostery Url Parser - [@cliqz/url-parser](https://github.com/ghostery/url-parser?utm_source=chatgpt.com)
 
 A Fast implementation of url parsing, mostly API-compatible with the standard URL class while
 being on average 2-3 times faster. Evaluation of URL components is lazy, so this implementation
