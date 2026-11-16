@@ -1,16 +1,14 @@
-# Cliqz Url Parser
-
 # Cliqz URL Parser
 
 Originally developed by Cliqz GmbH.
 
 This repository contains the original Cliqz URL Parser implementation,
-subsequently maintained within the Ghostery open-source ecosystem.
-[ghostery/url-parser: A fast typescript implementation of the window.URL API](https://github.com/ghostery/url-parser?utm_source=chatgpt.com)
+subsequently maintained under the Ghostery GitHub organisation.
+
+Original project: `@cliqz/url-parser`
+Current repository: [ghostery/url-parser](https://github.com/ghostery/url-parser)
 
 Original documentation retained for historical attribution.
-
-
 
 A Fast implementation of url parsing, mostly API-compatible with the standard URL class while
 being on average 2-3 times faster. Evaluation of URL components is lazy, so this implementation
